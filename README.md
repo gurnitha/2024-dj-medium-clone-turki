@@ -304,3 +304,10 @@ Compiling the source code by git commit
         modified:   user_profile/models.py
         modified:   user_profile/urls.py
         modified:   user_profile/views.py
+
+
+#### 35. Form-Edit-Profile-Edit-Page-Sending-Information-with-instance-and-initial-data
+
+        modified:   blog/templates/blog/components/post.html
+        modified:   read/templates/read/components/post_detail_component.html
+        modified:   user_profile/views.py
