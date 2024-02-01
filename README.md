@@ -205,3 +205,12 @@ Compiling the source code by git commit
         modified:   blog/forms.py
         modified:   blog/urls.py
         modified:   blog/views.py
+
+
+#### 25. Adding-Tagify-to-Form-Structure
+
+        modified:   blog/templates/blog/create_blog_post.html
+        modified:   blog/views.py
+        new file:   static_files/css/tagify.css
+        new file:   static_files/js/tagify.js
+        new file:   static_files/js/tagify.polyfills.min.js
