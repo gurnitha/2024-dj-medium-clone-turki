@@ -150,3 +150,13 @@ Compiling the source code by git commit
 
         modified:   blog/models.py
         modified:   config/settings.py
+
+
+#### 18. Creating-Blog-Post-Create-Structure-With-ModelForm
+
+        new file:   blog/forms.py
+        new file:   blog/templates/blog/create_blog_post.html
+        new file:   blog/urls.py
+        modified:   blog/views.py
+        modified:   config/urls.py
+        modified:   templates/core/base.html
