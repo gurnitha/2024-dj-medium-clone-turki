@@ -112,3 +112,10 @@ Compiling the source code by git commit
         new file:   user_profile/templates/user_profile/register.html
         modified:   user_profile/urls.py
         modified:   user_profile/views.py
+
+
+#### 12. Creating-User-Profile-Model-Structure
+
+        modified:   user_profile/models.py
+        modified:   user_profile/templates/user_profile/register.html
+        modified:   user_profile/views.py
