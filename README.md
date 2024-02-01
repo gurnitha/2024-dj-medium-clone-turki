@@ -361,3 +361,11 @@ Compiling the source code by git commit
         modified:   user_profile/models.py
         modified:   user_profile/urls.py
         modified:   user_profile/views.py
+
+
+#### 42. Ability-to-Update-In Case-Post-Information-Belongs-to-User
+
+        modified:   blog/models.py
+        modified:   blog/urls.py
+        modified:   blog/views.py
+        modified:   read/templates/read/components/post_detail_component.html
