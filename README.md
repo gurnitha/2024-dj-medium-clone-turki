@@ -198,3 +198,10 @@ Compiling the source code by git commit
 #### 23. Registering-and-Using-TinyMCE-of-PostModelForm
 
         modified:   blog/views.py
+
+
+#### 24. Form-Validators-Usages
+
+        modified:   blog/forms.py
+        modified:   blog/urls.py
+        modified:   blog/views.py
