@@ -311,3 +311,14 @@ Compiling the source code by git commit
         modified:   blog/templates/blog/components/post.html
         modified:   read/templates/read/components/post_detail_component.html
         modified:   user_profile/views.py
+
+
+#### 36. NavBar-Arranging-and-Enriching-Profile-Url-Information
+
+        modified:   blog/templates/blog/components/post.html
+        modified:   blog/views.py
+        modified:   read/templates/read/components/post_detail_component.html
+        new file:   templates/common_components/form.html
+        modified:   templates/core/navbar.html
+        modified:   user_profile/models.py
+        modified:   user_profile/views.py
