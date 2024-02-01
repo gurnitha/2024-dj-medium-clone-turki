@@ -327,3 +327,9 @@ Compiling the source code by git commit
 #### 37. Creating-Post-Information-From-Shell-Screen-and-Query-of-6-Most-Read-Posts
 
         modified:   page/views.py
+
+
+#### 38. Project4: Creating Top-Articles-Structure
+
+        new file:   page/templates/page/components/top_article.html
+        modified:   page/templates/page/home_page.html
