@@ -183,3 +183,13 @@ Compiling the source code by git commit
 #### 21. Project4: Editing-BlogPost-Name-and-Form-Editing
 
 		NOTE: Nothing changed!
+
+
+#### 22. Registering-and-Using-TinyMCE-of-PostModelForm
+
+        modified:   blog/forms.py
+        modified:   blog/templates/blog/create_blog_post.html
+        modified:   blog/views.py
+        modified:   config/settings.py
+        modified:   requirements.txt
+        new file:   static_files/js/tinymce.min.js
