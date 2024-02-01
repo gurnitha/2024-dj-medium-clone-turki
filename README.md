@@ -269,3 +269,14 @@ Compiling the source code by git commit
         modified:   read/templates/read/all_posts.html
         modified:   read/views.py
         modified:   user_profile/models.py
+
+
+#### 32. Creating Post-Detail-Page
+
+        modified:   blog/models.py
+        modified:   blog/templates/blog/components/post.html
+        modified:   config/settings.py
+        new file:   read/templates/read/components/post_detail_component.html
+        new file:   read/templates/read/post_detail.html
+        modified:   read/urls.py
+        modified:   read/views.py
