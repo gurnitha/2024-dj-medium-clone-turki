@@ -352,3 +352,12 @@ Compiling the source code by git commit
         modified:   blog/models.py
         modified:   blog/views.py
         modified:   templates/common_components/fav_update.html
+
+
+#### 41. Showing-Favorites-In-User-Profile
+
+        modified:   blog/templates/blog/post_list.html
+        modified:   templates/core/navbar.html
+        modified:   user_profile/models.py
+        modified:   user_profile/urls.py
+        modified:   user_profile/views.py
