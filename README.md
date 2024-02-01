@@ -333,3 +333,14 @@ Compiling the source code by git commit
 
         new file:   page/templates/page/components/top_article.html
         modified:   page/templates/page/home_page.html
+
+
+#### 39. Getting-data-post-slug-Information-for-Fav-with-Axios-and-Showing-Incoming-Post-Information-In-View
+
+        modified:   blog/templates/blog/components/post.html
+        modified:   blog/urls.py
+        modified:   blog/views.py
+        modified:   page/templates/page/home_page.html
+        new file:   static_files/js/axios.min.js
+        new file:   templates/common_components/fav_update.html
+        modified:   templates/core/base.html
