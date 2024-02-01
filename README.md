@@ -168,3 +168,13 @@ Compiling the source code by git commit
         modified:   blog/templates/blog/create_blog_post.html
         modified:   page/templates/page/home_page.html
         modified:   templates/core/base.html
+
+
+#### 20. Editing-BlogPost-Name-and-Form-Editing
+
+        modified:   blog/admin.py
+        modified:   blog/forms.py
+        modified:   blog/models.py
+        modified:   blog/templates/blog/create_blog_post.html
+        modified:   blog/views.py
+        modified:   config/settings.py
