@@ -214,3 +214,10 @@ Compiling the source code by git commit
         new file:   static_files/css/tagify.css
         new file:   static_files/js/tagify.js
         new file:   static_files/js/tagify.polyfills.min.js
+
+
+#### 26. Creating-To-Many-Form-Structure-When-Adding-Tags-And-Working-With-Django-Extensions
+
+        modified:   blog/views.py
+        modified:   config/settings.py
+        modified:   requirements.txt
