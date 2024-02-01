@@ -72,3 +72,10 @@ Compiling the source code by git commit
         new file:   user_profile/tests.py
         new file:   user_profile/urls.py
         new file:   user_profile/views.py
+
+
+#### 6. Checking-Login-Information-With-Authenticate
+
+        modified:   README.md
+        modified:   config/settings.py
+        modified:   user_profile/views.py
