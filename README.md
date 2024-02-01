@@ -193,3 +193,8 @@ Compiling the source code by git commit
         modified:   config/settings.py
         modified:   requirements.txt
         new file:   static_files/js/tinymce.min.js
+
+
+#### 23. Registering-and-Using-TinyMCE-of-PostModelForm
+
+        modified:   blog/views.py
