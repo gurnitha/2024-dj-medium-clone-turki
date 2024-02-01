@@ -226,3 +226,13 @@ Compiling the source code by git commit
 #### 27. Saving-the-Form-and-Transmitting-Message-To-The-User-To-Return-To-The-Home-Page
 
         modified:   blog/views.py
+
+
+#### 28. Making-Posts-Visible-on-HomePage-and-Easy-Using-Thumbnail
+
+        new file:   blog/templates/blog/components/post.html
+        modified:   blog/views.py
+        modified:   config/settings.py
+        modified:   page/templates/page/home_page.html
+        modified:   page/views.py
+        modified:   requirements.txt
