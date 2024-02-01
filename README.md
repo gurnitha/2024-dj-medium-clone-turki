@@ -138,3 +138,9 @@ Compiling the source code by git commit
         modified:   user_profile/admin.py
         modified:   user_profile/models.py
         modified:   user_profile/views.py
+
+
+#### 16. Setting-Media-Files-Settings
+
+        modified:   config/settings.py
+        modified:   config/urls.py
