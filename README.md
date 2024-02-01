@@ -236,3 +236,11 @@ Compiling the source code by git commit
         modified:   page/templates/page/home_page.html
         modified:   page/views.py
         modified:   requirements.txt
+
+
+#### 29. Adding-Ordering-to-Model-Structure-and-Home-Page-Edits
+
+        modified:   blog/models.py
+        modified:   blog/views.py
+        modified:   page/templates/page/home_page.html
+        modified:   page/views.py
