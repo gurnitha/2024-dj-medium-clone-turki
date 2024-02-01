@@ -244,3 +244,20 @@ Compiling the source code by git commit
         modified:   blog/views.py
         modified:   page/templates/page/home_page.html
         modified:   page/views.py
+
+
+#### 30. Showing-All-User-Texts
+
+        modified:   config/settings.py
+        modified:   config/urls.py
+        new file:   read/__init__.py
+        new file:   read/admin.py
+        new file:   read/apps.py
+        new file:   read/migrations/__init__.py
+        new file:   read/models.py
+        new file:   read/templates/read/all_posts.html
+        new file:   read/tests.py
+        new file:   read/urls.py
+        new file:   read/views.py
+        modified:   templates/core/navbar.html
+        modified:   user_profile/views.py
