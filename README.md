@@ -221,3 +221,8 @@ Compiling the source code by git commit
         modified:   blog/views.py
         modified:   config/settings.py
         modified:   requirements.txt
+
+
+#### 27. Saving-the-Form-and-Transmitting-Message-To-The-User-To-Return-To-The-Home-Page
+
+        modified:   blog/views.py
