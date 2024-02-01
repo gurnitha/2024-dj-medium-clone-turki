@@ -129,3 +129,12 @@ Compiling the source code by git commit
 #### 14. Checking-Whether-The-User-Who-Wants-To-Be-Registered-Has-Been-Registered Before
 
         modified:   user_profile/views.py
+
+
+#### 15. Writing-User-Information-to-Profile-Model
+
+        new file:   avatar/melinda-gimpel-5Ne6mMQtIdo-unsplash.jpg
+        new file:   avatar/melinda-gimpel-5Ne6mMQtIdo-unsplash_1TOVWwE.jpg
+        modified:   user_profile/admin.py
+        modified:   user_profile/models.py
+        modified:   user_profile/views.py
