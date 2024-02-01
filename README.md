@@ -160,3 +160,11 @@ Compiling the source code by git commit
         modified:   blog/views.py
         modified:   config/urls.py
         modified:   templates/core/base.html
+
+
+#### 19. Editing-the-HomePage-and-Adding-Class-to-Form-Structure
+
+        modified:   blog/forms.py
+        modified:   blog/templates/blog/create_blog_post.html
+        modified:   page/templates/page/home_page.html
+        modified:   templates/core/base.html
