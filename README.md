@@ -322,3 +322,8 @@ Compiling the source code by git commit
         modified:   templates/core/navbar.html
         modified:   user_profile/models.py
         modified:   user_profile/views.py
+
+
+#### 37. Creating-Post-Information-From-Shell-Screen-and-Query-of-6-Most-Read-Posts
+
+        modified:   page/views.py
