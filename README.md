@@ -79,3 +79,10 @@ Compiling the source code by git commit
         modified:   README.md
         modified:   config/settings.py
         modified:   user_profile/views.py
+
+
+#### 7. Informing-the-User-who-Login-With-Django-Messages-Framework
+
+        modified:   templates/core/base.html
+        new file:   templates/core/messages.html
+        modified:   user_profile/views.py
