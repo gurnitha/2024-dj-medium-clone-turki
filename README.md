@@ -49,3 +49,26 @@ Compiling the source code by git commit
 
         modified:   README.md
         modified:   config/settings.py
+
+
+#### 5. Creating-the-login-html-structure-and-Adding-the-Login-Form
+
+        new file:   blog/__init__.py
+        new file:   blog/admin.py
+        new file:   blog/apps.py
+        new file:   blog/migrations/__init__.py
+        new file:   blog/models.py
+        new file:   blog/tests.py
+        new file:   blog/views.py
+        modified:   config/settings.py
+        modified:   config/urls.py
+        new file:   templates/core/base_without_navbar.html
+        new file:   user_profile/__init__.py
+        new file:   user_profile/admin.py
+        new file:   user_profile/apps.py
+        new file:   user_profile/migrations/__init__.py
+        new file:   user_profile/models.py
+        new file:   user_profile/templates/user_profile/login.html
+        new file:   user_profile/tests.py
+        new file:   user_profile/urls.py
+        new file:   user_profile/views.py
