@@ -280,3 +280,17 @@ Compiling the source code by git commit
         new file:   read/templates/read/post_detail.html
         modified:   read/urls.py
         modified:   read/views.py
+
+
+#### 33. Correction-of-URL-Information-and-Use-with-Structure-Inside-Template 
+
+        modified:   blog/admin.py
+        modified:   blog/models.py
+        modified:   blog/templates/blog/components/post.html
+        new file:   blog/templates/blog/post_list.html
+        modified:   blog/urls.py
+        modified:   blog/views.py
+        modified:   config/settings.py
+        modified:   page/templates/page/home_page.html
+        modified:   read/templates/read/components/post_detail_component.html
+        modified:   read/views.py
