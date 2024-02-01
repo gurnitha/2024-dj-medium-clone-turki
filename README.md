@@ -124,3 +124,8 @@ Compiling the source code by git commit
 #### 13. Performing-Controls-in-Register-View
 
         modified:   user_profile/views.py
+
+
+#### 14. Checking-Whether-The-User-Who-Wants-To-Be-Registered-Has-Been-Registered Before
+
+        modified:   user_profile/views.py
