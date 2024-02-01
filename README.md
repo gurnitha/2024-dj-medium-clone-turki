@@ -344,3 +344,11 @@ Compiling the source code by git commit
         new file:   static_files/js/axios.min.js
         new file:   templates/common_components/fav_update.html
         modified:   templates/core/base.html
+
+
+#### 40. Creating-UserPostFav-Model-Structure-and-Processing-Received-Information-With-View 
+
+        modified:   blog/admin.py
+        modified:   blog/models.py
+        modified:   blog/views.py
+        modified:   templates/common_components/fav_update.html
