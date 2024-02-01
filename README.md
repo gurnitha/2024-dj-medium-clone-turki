@@ -103,3 +103,12 @@ Compiling the source code by git commit
 
         modified:   templates/core/base_without_navbar.html
         modified:   user_profile/views.py
+
+
+#### 11. Creating the Sign-Up-Register-Page
+
+        modified:   config/settings.py
+        modified:   templates/core/navbar.html
+        new file:   user_profile/templates/user_profile/register.html
+        modified:   user_profile/urls.py
+        modified:   user_profile/views.py
