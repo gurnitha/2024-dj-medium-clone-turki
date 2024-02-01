@@ -42,4 +42,10 @@ Compiling the source code by git commit
         modified:   page/templates/page/home_page.html
         new file:   templates/core/base.html
         new file:   templates/core/footer.html
-        new file:   templates/core/navbar.html
+        new file:   templates/core/navbar.htmlb
+
+
+#### 4. Transfer-TODO-List-To-Do-In-Project
+
+        modified:   README.md
+        modified:   config/settings.py
