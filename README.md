@@ -144,3 +144,9 @@ Compiling the source code by git commit
 
         modified:   config/settings.py
         modified:   config/urls.py
+
+
+#### 17. abstract-creating-blog-model-information-with-model-structure 
+
+        modified:   blog/models.py
+        modified:   config/settings.py
