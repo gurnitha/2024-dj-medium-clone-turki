@@ -119,3 +119,8 @@ Compiling the source code by git commit
         modified:   user_profile/models.py
         modified:   user_profile/templates/user_profile/register.html
         modified:   user_profile/views.py
+
+
+#### 13. Performing-Controls-in-Register-View
+
+        modified:   user_profile/views.py
