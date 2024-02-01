@@ -86,3 +86,8 @@ Compiling the source code by git commit
         modified:   templates/core/base.html
         new file:   templates/core/messages.html
         modified:   user_profile/views.py
+
+
+#### 8. Informing-the-User-who-Login-With-Django-Messages-Framework
+
+        modified:   templates/core/messages.html
