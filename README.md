@@ -261,3 +261,11 @@ Compiling the source code by git commit
         new file:   read/views.py
         modified:   templates/core/navbar.html
         modified:   user_profile/views.py
+
+
+#### 31. Access-to-User-Profile-via-get_absolute_url
+
+        modified:   blog/templates/blog/components/post.html
+        modified:   read/templates/read/all_posts.html
+        modified:   read/views.py
+        modified:   user_profile/models.py
