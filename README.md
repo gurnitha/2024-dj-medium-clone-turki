@@ -294,3 +294,13 @@ Compiling the source code by git commit
         modified:   page/templates/page/home_page.html
         modified:   read/templates/read/components/post_detail_component.html
         modified:   read/views.py
+
+
+#### 34. Creating-Profile-Edit-Page-With-Form 
+
+        new file:   blog/templates/blog/form.html
+        modified:   blog/views.py
+        new file:   user_profile/forms.py
+        modified:   user_profile/models.py
+        modified:   user_profile/urls.py
+        modified:   user_profile/views.py
