@@ -33,3 +33,13 @@ Compiling the source code by git commit
         new file:   static_files/css/style.css
         new file:   static_files/js/bootstrap.bundle.min.js
         new file:   static_files/js/bootstrap.bundle.min.js.map
+
+
+#### 3. Settings-In-Settings-of-Home-Page-and-Static-Files-Arrangements
+
+        modified:   README.md
+        modified:   config/settings.py
+        modified:   page/templates/page/home_page.html
+        new file:   templates/core/base.html
+        new file:   templates/core/footer.html
+        new file:   templates/core/navbar.html
