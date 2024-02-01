@@ -91,3 +91,9 @@ Compiling the source code by git commit
 #### 8. Informing-the-User-who-Login-With-Django-Messages-Framework
 
         modified:   templates/core/messages.html
+
+
+#### 9. Creating-Logout-View-and-Adding-Urls-e 
+
+        modified:   user_profile/urls.py
+        modified:   user_profile/views.p
