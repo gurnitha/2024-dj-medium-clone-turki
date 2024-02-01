@@ -97,3 +97,9 @@ Compiling the source code by git commit
 
         modified:   user_profile/urls.py
         modified:   user_profile/views.p
+
+
+#### 10. Adding-Login-Controls
+
+        modified:   templates/core/base_without_navbar.html
+        modified:   user_profile/views.py
